@@ -9,13 +9,15 @@ h1{
   text-align: center;
   color: white;
 }
-.aqua{
-  padding-left: 230px;
-  text-align: center;
-  color: aquamarine;
-  font-size: 16px;
 
+.aqua{
+  text-align: center;
+  font-size: 16px;
 }
+
+a:visited {
+  color: aquamarine;
+}  /* visited link */
 
 .video{
 text-align: center;
