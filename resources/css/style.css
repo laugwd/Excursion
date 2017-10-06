@@ -1,15 +1,22 @@
 body{
   background-color: black;
-
 }
+
 h1{
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
-  text-align: centered;
+  text-align: center;
   color: white;
 }
-h5{
+.aqua{
+  padding-left: 230px;
+  text-align: center;
   color: aquamarine;
   font-size: 16px;
+
+}
+
+.video{
+text-align: center;
 }
